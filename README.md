@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postman,react,ruby,visualstudio,vscode"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,postman,py,react,ruby,visualstudio,vscode"/>
   </a>
 </p>
 
